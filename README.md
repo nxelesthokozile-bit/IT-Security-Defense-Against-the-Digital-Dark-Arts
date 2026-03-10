@@ -17,8 +17,10 @@ Checked that a secure password is created
 Confirmed that Windows sign-in authentication is active
 
 Evidence 
+<img width="1004" height="717" alt="security " src="https://github.com/user-attachments/assets/e95d81cb-ebbb-4e1e-b466-1bca633eaba0" />
 
-<img width="728" height="698" alt="01" src="https://github.com/user-attachments/assets/ebae7ca7-ff0b-4031-bd93-2c6e20eea3ab" />
+
+
 
 Findings
 
@@ -50,7 +52,11 @@ Private Network
 
 Public Network
 
-<img width="1143" height="777" alt="02" src="https://github.com/user-attachments/assets/2ca96fbe-96e8-494c-bb27-b6e7177bc2d1" />
+<img width="1094" height="764" alt="firewall" src="https://github.com/user-attachments/assets/7f383369-36e1-4713-868d-e8290f16da3a" />
+
+
+
+
 
 Findings
 
@@ -79,7 +85,7 @@ Checked Firewall & Network Protection
 Reviewed Device Security and Health
 
 Evidence (Screenshot)
-<img width="1058" height="771" alt="03" src="https://github.com/user-attachments/assets/b4f230a9-c7dc-4ad4-b611-ba70048c89ae" />
+<img width="1143" height="777" alt="02" src="https://github.com/user-attachments/assets/05356ea8-5334-4ed6-9396-6000b42199d8" />
 
 
 Findings
@@ -95,7 +101,6 @@ Resolve any recommended security actions
 Keep Windows Security settings updated
 
 5. Security Best Practices
-
 Additional security practices were reviewed to improve system safety.
 
 Security Measures Checked
