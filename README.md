@@ -85,7 +85,8 @@ Checked Firewall & Network Protection
 Reviewed Device Security and Health
 
 Evidence (Screenshot)
-<img width="1143" height="777" alt="02" src="https://github.com/user-attachments/assets/05356ea8-5334-4ed6-9396-6000b42199d8" />
+<img width="1037" height="735" alt="step 3" src="https://github.com/user-attachments/assets/9000d345-fdc8-4582-a50e-30a9ced642f5" />
+
 
 
 Findings
